@@ -1,0 +1,16 @@
+# How to Stop Debt Collectors -- FDCPA Guide [2026] -- Howtostopdebtcollectors
+> Stop debt collectors with these proven methods. FDCPA rights, cease letters, disputes, and when to consider bankruptcy. 2026 guide.
+
+## About
+howtostopdebtcollectors.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- How to Stop Debt Collectors -- FDCPA Guide [2026] -- Howtostopdebtcollectors: https://howtostopdebtcollectors.org/
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
