@@ -6,8 +6,166 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## How to Stop Debt Collectors -- FDCPA Guide [2026] -- Howtostopdebtcollectors
+## When Bankruptcy Is the Best Way to Stop Collectors - Howtostopdebtcollectors
+Source: https://howtostopdebtcollectors.org/bankruptcy-option.html
+
+When Bankruptcy Is the Best Way to Stop Collectors
+
+If multiple collectors are overwhelming you, bankruptcy provides the most comprehensive relief
+
+Home›When Bankruptcy Is the Best Way to Stop Collectors | howtostopdebtcollectors.org›When Bankruptcy Is the Best Way to Stop Collectors
+
+← Home
+
+The Automatic Stay Stops Everything
+
+The moment you file a bankruptcy petition, a federal court order called the automatic stay goes into effect under 11 U.S.C. 362. This order immediately prohibits all creditors and debt collectors from any further collection activity. No more calls, no more letters, no more lawsuits, no more garnishments, no more bank levies. The stay applies to every creditor simultaneously - you do not need to deal with each one individually.
+
+For someone being hounded by multiple collectors, this immediate, comprehensive relief is often the most valuable aspect of bankruptcy. One filing stops them all. Learn more at automaticstay.org.
+
+Permanent Elimination Through Discharge
+
+The automatic stay is temporary protection while the case is pending. The permanent solution is the bankruptcy discharge, which eliminates your legal obligation to pay the debts. After discharge, the discharge injunction permanently prohibits any creditor from ever attempting to collect the discharged debt. Any collector who violates the discharge injunction can be held in contempt of federal court.
+
+Most consumer debts are dischargeable: credit cards, medical bills, personal loans, old utility bills, and most other unsecured debt. Some debts cannot be discharged: recent taxes, child support, alimony, student loans (in most cases), and debts obtained through fraud.
+
+Chapter 7 vs. Chapter 13
+
+Chapter 7 eliminates most debts in about 3-4 months with no ongoing payments. You must pass the means test to qualify. Chapter 13 restructures your debts into a 3-5 year payment plan with lower monthly amounts. Both chapters stop collection immediately and provide a discharge at the end.
+
+Compare the chapters in detail at chapter7vs13.org. Check the total cost at howmuchdoesbankruptcycost.com.
+
+Is Bankruptcy Right for You?
+
+Bankruptcy is not the right choice for everyone. If you owe a single small debt, negotiation may be simpler. If you have significant assets you want to protect, you need careful planning around exemptions. If your debts are mostly non-dischargeable (taxes, student loans), bankruptcy may provide limited relief.
+
+But if you are being contacted by multiple collectors, facing lawsuits or garnishments from several creditors, and the total debt exceeds what you can realistically pay - bankruptcy may be the most efficient path to a fresh start. Screen your eligibility for free at 1328f.com.
+
+Frequently Asked Questions
+
+How fast does bankruptcy stop debt collectors?
+
+Immediately upon filing. The automatic stay takes effect the instant the petition is filed with the court. All collection activity must stop.
+
+Will bankruptcy stop lawsuits from collectors?
+
+Yes. The automatic stay halts all pending lawsuits. Any collector who continues a lawsuit after receiving notice of the bankruptcy filing can face sanctions.
+
+How long does bankruptcy take?
+
+Chapter 7 is typically completed in 3-4 months. Chapter 13 involves a 3-5 year payment plan. Both provide immediate relief from collection through the automatic stay.
+
+Will I lose my property in bankruptcy?
+
+Most people keep all their property in bankruptcy through exemptions. Check your state exemptions at bankruptcyexemptionsbystate.com.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Automatic Stay
+Ch.7 vs Ch.13
+Open Bankruptcy Project
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Debt Collector Harassment - What Crosses the Line - Howtostopdebtcollectors
+Source: https://howtostopdebtcollectors.org/harassment.html
+
+Debt Collector Harassment
+
+Know the difference between aggressive collection and illegal harassment under federal law
+
+Home›Debt Collector Harassment - What Crosses the Line | howtostopdebtcollectors.org›Debt Collector Harassment
+
+← Home
+
+What Counts as Harassment
+
+The FDCPA prohibits debt collector harassment under Section 1692d. Illegal harassment includes calling repeatedly with intent to annoy, using obscene or profane language, threatening violence or harm, publishing lists of consumers who refuse to pay, and calling without identifying themselves as debt collectors.
+
+Courts have found harassment in as few as 3-4 calls per day or when collectors call at unreasonable hours despite being told to stop. The key factor is whether the collector's behavior would be considered abusive by a reasonable person.
+
+Documenting Harassment
+
+Keep a detailed log of every call: date, time, caller ID number, name of collector, what was said, and your emotional response. Save all voicemails - do not delete them. Screenshot any text messages. Keep all letters and emails. This documentation is critical if you file a complaint or lawsuit.
+
+If your state allows one-party consent recording, consider recording all collector calls. In two-party consent states, announce at the start of each call that you are recording. This often causes collectors to immediately improve their behavior.
+
+Filing Complaints
+
+Report harassment to the Consumer Financial Protection Bureau (consumerfinance.gov), your state attorney general, and the Federal Trade Commission. These agencies track patterns and can take enforcement action against repeat offenders.
+
+You can also sue the collector directly for statutory damages of up to $1,000 plus actual damages and attorney fees. Many consumer protection attorneys handle these cases on contingency.
+
+The Nuclear Option: Bankruptcy
+
+If harassment is coming from multiple collectors on multiple debts, bankruptcy eliminates them all at once. The automatic stay immediately prohibits all collector contact, and any collector who violates the stay faces sanctions. After discharge, the discharge injunction permanently bars future collection attempts.
+
+Frequently Asked Questions
+
+How many calls per day is considered harassment?
+
+There is no specific number, but courts have found harassment in as few as 3-4 calls per day, especially when the consumer has asked the collector to stop calling.
+
+Can collectors contact my family or employer?
+
+Collectors can contact third parties only to obtain your contact information, and cannot reveal that you owe a debt. They generally cannot contact your employer except to verify employment or garnish wages under a court order.
+
+What should I say when a harassing collector calls?
+
+Tell them the call is being documented, request they communicate only in writing, and send a cease and desist letter by certified mail.
+
+Can I block collector phone numbers?
+
+Yes, but this does not solve the underlying debt. The collector may call from different numbers or escalate to legal action. Addressing the debt through validation, negotiation, or bankruptcy is more effective.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Cease & Desist
+Open Bankruptcy Project
+Validation Letter
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## How to Stop Debt Collectors - FDCPA Guide [2026] - Howtostopdebtcollectors
 Source: https://howtostopdebtcollectors.org/
+
+Skip to main content
 
 How to Stop Debt Collectors
 
@@ -35,7 +193,7 @@ CFPB: consumerfinance.gov/complaint. Your state Attorney General's office. FTC: 
 
 The Permanent Solution: Bankruptcy
 
-Cease and desist letters stop calls. Bankruptcy stops the debt. The discharge injunction makes any future collection a federal court violation -- not just an FDCPA violation, but contempt of court. How discharge works.
+Cease and desist letters stop calls. Bankruptcy stops the debt. The discharge injunction makes any future collection a federal court violation - not just an FDCPA violation, but contempt of court. How discharge works.
 
 Frequently Asked Questions
 
@@ -53,7 +211,7 @@ It applies to third-party debt collectors and debt buyers. Original creditors ar
 
 How do I stop debt collectors from calling?
 
-Send a written cease-and-desist letter via certified mail. Under the FDCPA, once a collector receives your written request to stop contact, they must stop calling -- except to confirm they will stop or to notify you of a specific legal action. Keep a copy of the letter and the certified mail receipt as proof.
+Send a written cease-and-desist letter via certified mail. Under the FDCPA, once a collector receives your written request to stop contact, they must stop calling - except to confirm they will stop or to notify you of a specific legal action. Keep a copy of the letter and the certified mail receipt as proof.
 
 What are my rights under the FDCPA?
 
@@ -120,7 +278,7 @@ debtvalidationletter.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -256,6 +414,7 @@ File Without a Lawyer
 Rebuild Credit
 howtostopdebtcollectors.org
 ♥ Sponsor
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -266,3 +425,470 @@ Privacy |
 Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
+
+---
+
+## How to Negotiate with Debt Collectors - Howtostopdebtcollectors
+Source: https://howtostopdebtcollectors.org/negotiating-with-collectors.html
+
+How to Negotiate with Debt Collectors
+
+Settlement strategies that can reduce what you owe by 30-70% - when done correctly
+
+Home›How to Negotiate with Debt Collectors | howtostopdebtcollectors.org›How to Negotiate with Debt Collectors
+
+← Home
+
+When Negotiation Makes Sense
+
+Negotiating with debt collectors can make sense when you have a lump sum available, the debt is legitimate, and you want to resolve it without filing bankruptcy. Debt buyers who purchased your account for pennies on the dollar have significant room to negotiate - even settling for 30-50% of the balance represents a profit for them.
+
+Negotiation works best for old debts, debts near the statute of limitations, and debts where you can demonstrate the collector would have difficulty proving the case in court. It works poorly for recent debts, debts with strong documentation, and situations where the collector knows you have wages or assets to garnish.
+
+Settlement Strategies
+
+Start by requesting debt validation to understand exactly what you owe and to whom. Never negotiate from a position of ignorance. Once you confirm the debt is legitimate, make an initial offer at 25-30% of the balance. The collector will counter. Most settlements land between 30-60% of the original balance.
+
+Always negotiate in writing. Never give the collector access to your bank account or agree to electronic payments during negotiations. Get the settlement agreement in writing before making any payment, and make sure it specifies the exact amount, the payment terms, and that the debt will be reported as "settled" or "paid in full" to the credit bureaus.
+
+Tax Implications
+
+If a creditor forgives more than $600 of debt, they are required to report the forgiven amount to the IRS on Form 1099-C. The forgiven amount may be treated as taxable income. This is sometimes called the "tax bomb" of debt settlement.
+
+There are exceptions: if you were insolvent at the time of the settlement (your debts exceeded your assets), you can exclude the forgiven amount from income using IRS Form 982. Debt discharged in bankruptcy is also excluded from income. Learn more at 1099cdebt.com.
+
+When to Choose Bankruptcy Instead
+
+If you owe multiple debts, cannot afford a lump-sum settlement, or the tax consequences of settlement are a concern, bankruptcy may be a better option. Bankruptcy eliminates the debt entirely without tax consequences, stops all collection activity immediately, and provides a comprehensive fresh start. Compare your options at debtrelieforbankruptcy.com.
+
+Frequently Asked Questions
+
+How much can I settle a debt for?
+
+Most settlements range from 30-60% of the balance. Older debts and debts purchased by debt buyers tend to settle for less because the collector paid very little for the account.
+
+Should I get a settlement offer in writing?
+
+Absolutely. Never make a payment without a written agreement specifying the settlement amount and terms. Verbal agreements are difficult to enforce if the collector later claims you still owe more.
+
+Will settling a debt hurt my credit?
+
+A settled account shows on your credit report as "settled for less than full amount," which is better than an unpaid collection but worse than "paid in full." The negative impact decreases over time.
+
+Are there tax consequences to settling debt?
+
+Potentially yes. Forgiven debt over $600 may be reported as taxable income on Form 1099-C. The insolvency exception may apply if your debts exceeded your assets at the time of settlement.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+1099-C Tax Guide
+Debt Relief vs Bankruptcy
+Open Bankruptcy Project
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Fake Debt Collector Scams - How to Spot Them - Howtostopdebtcollectors
+Source: https://howtostopdebtcollectors.org/scams.html
+
+Fake Debt Collector Scams
+
+Millions of Americans are targeted by fake debt collectors who use threats and fear to steal money
+
+Home›Fake Debt Collector Scams - How to Spot Them | howtostopdebtcollectors.org›Fake Debt Collector Scams
+
+← Home
+
+How Fake Collector Scams Work
+
+Fake debt collectors use stolen personal information - often from data breaches - to create a veneer of legitimacy. They call or text claiming you owe money, often citing an official-sounding company name, and demand immediate payment. They use high-pressure tactics: threatening arrest, claiming they will call your employer, or saying a warrant has been issued.
+
+These scammers target people who may actually have debts (making the claim seem plausible) or people who are simply scared enough to pay without verifying. They demand payment by untraceable methods: wire transfer, prepaid debit cards, gift cards, or cryptocurrency.
+
+Red Flags of a Scam
+
+Legitimate debt collectors must identify themselves and provide written validation. If a caller refuses to provide the name of the original creditor, will not send written documentation, demands immediate payment by unusual methods, threatens arrest or criminal charges, or pressures you to act before you can verify the debt - it is almost certainly a scam.
+
+Other red flags: the debt does not appear on any of your credit reports, the caller becomes hostile when you ask questions, the phone number does not match any legitimate company, and the caller ID shows a spoofed government number.
+
+What to Do If Targeted
+
+Never provide personal information or make payment based on a phone call. Request the caller's name, company, address, and phone number. Tell them to send validation in writing. If they refuse or become aggressive, hang up.
+
+Check all three credit reports for the alleged debt. File complaints with the FTC (reportfraud.ftc.gov), the CFPB, your state attorney general, and local police. Report the phone number to the FCC. If you accidentally paid, contact your bank immediately to attempt a chargeback or reversal.
+
+Protecting Your Information
+
+Monitor your credit reports regularly using AnnualCreditReport.com. Consider freezing your credit at all three bureaus to prevent new accounts from being opened in your name. Be cautious about sharing personal information online and use strong, unique passwords for financial accounts.
+
+If you have legitimate debts that concern you, addressing them proactively through debt relief or bankruptcy can reduce your vulnerability to scammers who exploit financial anxiety.
+
+Frequently Asked Questions
+
+How can I tell if a debt collector is fake?
+
+Fake collectors refuse to provide written validation, demand immediate payment by untraceable methods, threaten arrest, and become hostile when questioned. Legitimate collectors must identify themselves and send written notice.
+
+What if I already paid a fake collector?
+
+Contact your bank immediately to attempt a chargeback or reversal. File a police report and complaints with the FTC, CFPB, and state attorney general.
+
+Can real debt collectors threaten arrest?
+
+No. Threatening arrest for unpaid consumer debt violates the FDCPA. Debt is a civil matter, not criminal.
+
+Should I give a collector my personal information?
+
+Never provide your Social Security number, bank account numbers, or other sensitive information to a caller. A legitimate collector already has this information from the original creditor records.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Zombie Debt
+Open Bankruptcy Project
+Validation Letter
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Debt Collection by Text and Email - New Rules - Howtostopdebtcollectors
+Source: https://howtostopdebtcollectors.org/text-and-email-rules.html
+
+Debt Collection by Text and Email
+
+The 2021 CFPB rules allow collectors to contact you by text and email - but with important restrictions
+
+Home›Debt Collection by Text and Email - New Rules | howtostopdebtcollectors.org›Debt Collection by Text and Email
+
+← Home
+
+The 2021 Regulation F Changes
+
+In November 2021, the Consumer Financial Protection Bureau issued Regulation F, updating debt collection rules for the digital age. For the first time, the rules explicitly address contact by text message, email, and social media. Collectors may now use these electronic channels, but with significant restrictions designed to protect consumer privacy.
+
+The rules require collectors to include an opt-out mechanism in every electronic communication - a way for you to tell the collector to stop using that particular channel. Once you opt out of text messages, for example, the collector must stop texting you.
+
+Email Collection Rules
+
+Collectors can send emails to any email address you previously used to communicate about the debt, or to an email address the collector reasonably believes belongs to you. However, they must include a clear opt-out mechanism in every email. They also cannot send emails to work email addresses if they know the employer prohibits it.
+
+A major concern with email collection is privacy - emails can be seen by others who have access to your account. The rules attempt to address this by limiting the information disclosed in the subject line and requiring that the debt details be contained in the body of the message or an attached document.
+
+Text Message Restrictions
+
+Collectors can text you at phone numbers you previously used to communicate about the debt. They must identify themselves as a debt collector in the message and include opt-out instructions. You can opt out of text messages while still allowing phone calls, or vice versa.
+
+Each text message must be limited in what it reveals. The collector cannot include the full debt amount in a text message viewable on a lock screen, as this could reveal the debt to anyone who sees your phone.
+
+Your Right to Opt Out
+
+You can opt out of any electronic communication channel at any time. If you tell a collector to stop texting, they must stop texting. If you tell them to stop emailing, they must stop emailing. You can force all communication into writing (postal mail) by opting out of calls, texts, and emails.
+
+Sending a comprehensive cease and desist letter that covers all channels is the most effective way to stop unwanted electronic contact.
+
+Frequently Asked Questions
+
+Can debt collectors text me?
+
+Yes, under the 2021 Regulation F rules, but they must include opt-out instructions in every text and cannot reveal debt details visible on a lock screen.
+
+Can I opt out of texts but still get calls?
+
+Yes. You can opt out of individual communication channels. Opting out of texts does not affect the collector ability to call or send mail.
+
+Can collectors contact me on social media?
+
+Under Regulation F, collectors can send private messages on social media, but cannot post publicly about your debt. They must identify themselves as debt collectors and include opt-out instructions.
+
+What if a collector keeps texting after I opt out?
+
+This is a violation of Regulation F and the FDCPA. Document the continued texts (screenshots with timestamps) and file complaints with the CFPB and your state attorney general.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Cease & Desist
+Open Bankruptcy Project
+Validation Letter
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## What Debt Collectors Cannot Legally Do - Howtostopdebtcollectors
+Source: https://howtostopdebtcollectors.org/what-collectors-cannot-do.html
+
+What Debt Collectors Cannot Legally Do
+
+15 things debt collectors are prohibited from doing under federal and state law
+
+Home›What Debt Collectors Cannot Legally Do | howtostopdebtcollectors.org›What Debt Collectors Cannot Legally Do
+
+← Home
+
+Prohibited Practices Under the FDCPA
+
+The FDCPA creates a detailed list of prohibited practices. Collectors cannot threaten arrest or criminal prosecution (debt is civil, not criminal). They cannot claim to be attorneys or government officials when they are not. They cannot add unauthorized fees or interest to the balance. They cannot deposit post-dated checks before the date written.
+
+Collectors also cannot contact you at inconvenient times or places. The law presumes that calls before 8am or after 9pm are inconvenient. They cannot contact you at work if you tell them your employer prohibits such calls. They cannot discuss your debt with anyone other than you, your spouse, your attorney, or a co-signer.
+
+False and Misleading Representations
+
+Section 1692e prohibits 16 specific types of false representations. Collectors cannot imply they are affiliated with the government, misrepresent the legal status of the debt, threaten actions they cannot legally take (like suing on time-barred debt), or falsely claim the debt is a crime. They cannot send documents that falsely appear to be from a court or government agency.
+
+Any collector who tells you that you will be arrested, that they will garnish your wages without a court order (for regular debts), or that failing to pay is a criminal offense is violating the FDCPA.
+
+Unfair Practices
+
+Section 1692f prohibits unfair collection practices. Collectors cannot collect amounts not authorized by the original agreement or law. They cannot take or threaten to take property when they have no legal right to do so. They cannot cause charges (like collect call fees) to be billed to you by concealing the purpose of a communication.
+
+Perhaps most importantly in the context of zombie debt, collectors cannot sue or threaten to sue on debt that they know is past the statute of limitations.
+
+State Law Additions
+
+Many states add additional protections beyond the FDCPA. Some states prohibit collectors from contacting consumers by text message or social media without consent. Others require collectors to be licensed in the state and maintain surety bonds. Check your state attorney general's website for state-specific restrictions.
+
+Frequently Asked Questions
+
+Can a debt collector threaten to arrest me?
+
+No. Debt is a civil matter, not criminal. Threatening arrest or criminal prosecution for unpaid consumer debt violates the FDCPA.
+
+Can collectors call my cell phone?
+
+Yes, but if you did not give the collector your cell number, robocalls to your cell may violate the Telephone Consumer Protection Act (TCPA), which provides for $500-$1,500 per call in damages.
+
+Can collectors sue me on old debt?
+
+They can attempt to, but suing on debt past the statute of limitations may violate the FDCPA. Check your state deadlines at debtstatuteoflimitations.com.
+
+Can collectors add fees to my balance?
+
+Only if the original agreement or applicable law specifically authorizes the fees. Unauthorized fees violate the FDCPA.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Statute of Limitations
+Open Bankruptcy Project
+Zombie Debt
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Your Rights Under the FDCPA - Howtostopdebtcollectors
+Source: https://howtostopdebtcollectors.org/your-rights.html
+
+Your Rights Under the FDCPA
+
+The Fair Debt Collection Practices Act gives you powerful rights against debt collectors - learn how to use them
+
+Home›Your Rights Under the FDCPA | howtostopdebtcollectors.org›Your Rights Under the FDCPA
+
+← Home
+
+The FDCPA Protects You
+
+The Fair Debt Collection Practices Act (15 U.S.C. 1692) is the primary federal law governing how debt collectors can treat you. It applies to third-party collectors and debt buyers - not original creditors collecting their own debts. The law restricts when and how collectors can contact you, what they can say, and what actions they can take.
+
+Under the FDCPA, collectors cannot call before 8am or after 9pm, cannot contact you at work if told to stop, cannot use profanity or threats, cannot misrepresent the amount owed, and must send written notice of the debt within five days of first contact. Violations carry statutory damages of up to $1,000 per lawsuit plus actual damages and attorney fees.
+
+Your Right to Dispute
+
+Within 30 days of first contact, you can dispute the debt in writing. The collector must then stop all collection activity until they verify the debt. This is one of the most powerful consumer protections in the FDCPA, especially for old debts where documentation may be incomplete. For a ready-to-use letter template, visit debtvalidationletter.org.
+
+Cease and Desist
+
+You have the right to tell a collector to stop contacting you entirely by sending a written cease and desist letter. Under Section 1692c(c), once the collector receives your letter, they can only contact you to confirm they will stop or to notify you of specific legal action. They cannot call, write, or contact third parties about your debt. Get a template at ceaseanddesistdebt.com.
+
+When to Sue the Collector
+
+If a collector violates the FDCPA, you can sue them in state or federal court within one year of the violation. Many consumer protection attorneys take these cases on contingency because the FDCPA provides for fee-shifting. Document every interaction - keep a log of calls, save all letters and voicemails, and record conversations if your state allows it.
+
+Frequently Asked Questions
+
+What is the FDCPA?
+
+The Fair Debt Collection Practices Act - a federal law that restricts how third-party debt collectors can treat consumers. It prohibits harassment, misrepresentation, and unfair practices.
+
+Can I tell a collector to stop calling?
+
+Yes. Send a written cease and desist letter. After receiving it, the collector can only contact you to confirm they will stop or to notify you of legal action.
+
+What damages can I recover for FDCPA violations?
+
+Up to $1,000 in statutory damages per lawsuit, plus actual damages (emotional distress, lost wages) and attorney fees.
+
+Does the FDCPA apply to original creditors?
+
+No. The FDCPA applies to third-party debt collectors and debt buyers. Original creditors collecting their own debts are generally not covered, though state laws may provide similar protections.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Debt Validation Letter
+Cease & Desist
+Open Bankruptcy Project
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Privacy Policy - howtostopdebtcollectors.org
+Source: https://howtostopdebtcollectors.org/privacy.html
+
+howtostopdebtcollectors.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
