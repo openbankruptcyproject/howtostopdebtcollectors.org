@@ -1,8 +1,8 @@
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Your Rights Under the FDCPA - Howtostopdebtcollectors</title>
-<meta name="description" content="Learn about your rights under the fdcpa | howtostopdebtcollectors.org in our free 2026 guide. Clear explanations, real data, and...">
-<link rel="canonical" href="https://howtostopdebtcollectors.org/your-rights.html">
+<title>Debt Collection by Text and Email - New Rules - Howtostopdebtcollectors</title>
+<meta name="description" content="Learn about debt collection by text and email - new rules | howtostopdebtcollectors.org in our free 2026 guide.">
+<link rel="canonical" href="https://howtostopdebtcollectors.org/text-and-email-rules.html">
 <meta name="theme-color" content="#0d1117"><link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <!-- BTN:GA4:START -->
 <link rel="preconnect" href="https://www.googletagmanager.com">
@@ -10,15 +10,15 @@
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());
   gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
 <!-- BTN:GA4:END -->
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the FDCPA?","acceptedAnswer":{"@type":"Answer","text":"The Fair Debt Collection Practices Act - a federal law that restricts how third-party debt collectors can treat consumers. It prohibits harassment, misrepresentation, and unfair practices."}},{"@type":"Question","name":"Can I tell a collector to stop calling?","acceptedAnswer":{"@type":"Answer","text":"Yes. Send a written cease and desist letter. After receiving it, the collector can only contact you to confirm they will stop or to notify you of legal action."}},{"@type":"Question","name":"What damages can I recover for FDCPA violations?","acceptedAnswer":{"@type":"Answer","text":"Up to $1,000 in statutory damages per lawsuit, plus actual damages (emotional distress, lost wages) and attorney fees."}},{"@type":"Question","name":"Does the FDCPA apply to original creditors?","acceptedAnswer":{"@type":"Answer","text":"No. The FDCPA applies to third-party debt collectors and debt buyers. Original creditors collecting their own debts are generally not covered, though state laws may provide similar protections."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can debt collectors text me?","acceptedAnswer":{"@type":"Answer","text":"Yes, under the 2021 Regulation F rules, but they must include opt-out instructions in every text and cannot reveal debt details visible on a lock screen."}},{"@type":"Question","name":"Can I opt out of texts but still get calls?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can opt out of individual communication channels. Opting out of texts does not affect the collector ability to call or send mail."}},{"@type":"Question","name":"Can collectors contact me on social media?","acceptedAnswer":{"@type":"Answer","text":"Under Regulation F, collectors can send private messages on social media, but cannot post publicly about your debt. They must identify themselves as debt collectors and include opt-out instructions."}},{"@type":"Question","name":"What if a collector keeps texting after I opt out?","acceptedAnswer":{"@type":"Answer","text":"This is a violation of Regulation F and the FDCPA. Document the continued texts (screenshots with timestamps) and file complaints with the CFPB and your state attorney general."}}]}</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Your Rights Under the FDCPA",
-      "description": "The Fair Debt Collection Practices Act gives you powerful rights against debt collectors - learn how to use them",
+      "headline": "Debt Collection by Text and Email",
+      "description": "The 2021 CFPB rules allow collectors to contact you by text and email - but with important restrictions",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -30,7 +30,7 @@
       },
       "datePublished": "2026-04-02",
       "dateModified": "2026-04-05",
-      "mainEntityOfPage": "https://howtostopdebtcollectors.org/your-rights.html"
+      "mainEntityOfPage": "https://howtostopdebtcollectors.org/text-and-email-rules.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -44,21 +44,21 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Your Rights Under the FDCPA | howtostopdebtcollectors.org",
+          "name": "Debt Collection by Text and Email - New Rules | howtostopdebtcollectors.org",
           "item": "https://howtostopdebtcollectors.org"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Your Rights Under the FDCPA",
-          "item": "https://howtostopdebtcollectors.org/your-rights.html"
+          "name": "Debt Collection by Text and Email",
+          "item": "https://howtostopdebtcollectors.org/text-and-email-rules.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Your Rights Under the FDCPA",
-      "url": "https://howtostopdebtcollectors.org/your-rights.html",
+      "name": "Debt Collection by Text and Email",
+      "url": "https://howtostopdebtcollectors.org/text-and-email-rules.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -75,55 +75,34 @@
 <style>:root{--bg:#0d1117;--surface:#151b23;--border:#30363d;--text:#e6edf3;--text-muted:#9eaab6;--accent:#58a6ff}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}.container{max-width:860px;margin:0 auto;padding:2rem 1.5rem}header{text-align:center;padding:3rem 1rem 2rem;border-bottom:1px solid var(--border)}header h1{font-size:2.2rem;margin-bottom:.5rem}header .subtitle{color:var(--text-muted);font-size:1.1rem}.content-section{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:1.5rem 2rem;margin:1.5rem 0}.content-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem;border-bottom:1px solid var(--border);padding-bottom:.5rem}.content-section p{margin-bottom:1rem}.content-section p:last-child{margin-bottom:0}.content-section ul{margin:.5rem 0 1rem 1.5rem}.content-section li{margin-bottom:.5rem}.faq-section{margin:2rem 0}.faq-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem}.faq-item{background:var(--surface);border:1px solid var(--border);border-radius:8px;margin:.75rem 0;padding:1rem 1.5rem}.faq-item h3{color:var(--text);font-size:1rem;margin-bottom:.5rem}.faq-item p{color:var(--text-muted);font-size:.95rem;margin:0}.cta-box{background:linear-gradient(135deg,#1a1f2e,#0d1117);border:2px solid var(--accent);border-radius:12px;padding:2rem;text-align:center;margin:2rem 0}.cta-box p{font-size:1.1rem;margin-bottom:1rem}.btn{display:inline-block;background:var(--accent);color:#0d1117;padding:.75rem 2rem;border-radius:8px;font-weight:700;text-decoration:none}.btn:hover{opacity:.9;text-decoration:none}.about-data{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:1.5rem;margin:2rem 0;font-size:.9rem;color:var(--text-muted)}.network-footer{text-align:center;padding:2rem 1rem;margin-top:2rem;border-top:1px solid var(--border);font-size:.85rem;color:var(--text-muted)}.network-footer strong{color:var(--text)}.network-footer .links{margin:1rem 0;line-height:2}.network-footer .links a{margin:0 .5rem}.network-footer .disclaimer{font-size:.75rem;margin-top:1rem}@media(max-width:600px){.container{padding:1rem}.content-section{padding:1rem 1.25rem}header h1{font-size:1.6rem}}
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<link rel="alternate" hreflang="en" href="https://howtostopdebtcollectors.org/your-rights.html">
-<link rel="alternate" hreflang="es" href="https://howtostopdebtcollectors.org/your-rights-es.html">
+<link rel="alternate" hreflang="en" href="https://howtostopdebtcollectors.org/text-and-email-rules.html">
+<link rel="alternate" hreflang="es" href="https://howtostopdebtcollectors.org/text-and-email-rules-es.html">
 <meta property="og:image" content="https://howtostopdebtcollectors.org/og-image.svg">
 <meta name="twitter:image" content="https://howtostopdebtcollectors.org/og-image.svg">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
-<header><h1>Your Rights Under the FDCPA</h1><p class="subtitle">The Fair Debt Collection Practices Act gives you powerful rights against debt collectors - learn how to use them</p></header>
+<header><h1>Debt Collection by Text and Email</h1><p class="subtitle">The 2021 CFPB rules allow collectors to contact you by text and email - but with important restrictions</p></header>
 <div class="container"><main id="main-content">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://howtostopdebtcollectors.org">Your Rights Under the FDCPA | howtostopdebtcollectors.org</a><span class="separator">&rsaquo;</span><span>Your Rights Under the FDCPA</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://howtostopdebtcollectors.org">Debt Collection by Text and Email - New Rules | howtostopdebtcollectors.org</a><span class="separator">&rsaquo;</span><span>Debt Collection by Text and Email</span></nav>
 
 <nav style="margin-bottom:1rem;font-size:.9rem"><a href="/">&larr; Home</a></nav>
-<div class="content-section"><h2>The FDCPA Protects You</h2>
-<p>The Fair Debt Collection Practices Act (15 U.S.C. 1692) is the primary federal law governing how debt collectors can treat you. It applies to third-party collectors and debt buyers - not original creditors collecting their own debts. The law restricts when and how collectors can contact you, what they can say, and what actions they can take.</p><p>Under the FDCPA, collectors cannot call before 8am or after 9pm, cannot contact you at work if told to stop, cannot use profanity or threats, cannot misrepresent the amount owed, and must send written notice of the debt within five days of first contact. Violations carry statutory damages of up to $1,000 per lawsuit plus actual damages and attorney fees.</p>
+<div class="content-section"><h2>The 2021 Regulation F Changes</h2>
+<p>In November 2021, the Consumer Financial Protection Bureau issued Regulation F, updating debt collection rules for the digital age. For the first time, the rules explicitly address contact by text message, email, and social media. Collectors may now use these electronic channels, but with significant restrictions designed to protect consumer privacy.</p><p>The rules require collectors to include an opt-out mechanism in every electronic communication - a way for you to tell the collector to stop using that particular channel. Once you opt out of text messages, for example, the collector must stop texting you.</p>
 </div>
-<div class="content-section"><h2>Your Right to Dispute</h2>
-<p>Within 30 days of first contact, you can dispute the debt in writing. The collector must then stop all collection activity until they verify the debt. This is one of the most powerful consumer protections in the FDCPA, especially for old debts where documentation may be incomplete. For a ready-to-use letter template, visit <a href="https://debtvalidationletter.org">debtvalidationletter.org</a>.</p>
+<div class="content-section"><h2>Email Collection Rules</h2>
+<p>Collectors can send emails to any email address you previously used to communicate about the debt, or to an email address the collector reasonably believes belongs to you. However, they must include a clear opt-out mechanism in every email. They also cannot send emails to work email addresses if they know the employer prohibits it.</p><p>A major concern with email collection is privacy - emails can be seen by others who have access to your account. The rules attempt to address this by limiting the information disclosed in the subject line and requiring that the debt details be contained in the body of the message or an attached document.</p>
 </div>
-<div class="content-section"><h2>Cease and Desist</h2>
-<p>You have the right to tell a collector to stop contacting you entirely by sending a written cease and desist letter. Under Section 1692c(c), once the collector receives your letter, they can only contact you to confirm they will stop or to notify you of specific legal action. They cannot call, write, or contact third parties about your debt. Get a template at <a href="https://ceaseanddesistdebt.com">ceaseanddesistdebt.com</a>.</p>
+<div class="content-section"><h2>Text Message Restrictions</h2>
+<p>Collectors can text you at phone numbers you previously used to communicate about the debt. They must identify themselves as a debt collector in the message and include opt-out instructions. You can opt out of text messages while still allowing phone calls, or vice versa.</p><p>Each text message must be limited in what it reveals. The collector cannot include the full debt amount in a text message viewable on a lock screen, as this could reveal the debt to anyone who sees your phone.</p>
 </div>
-<div class="content-section"><h2>When to Sue the Collector</h2>
-<p>If a collector violates the FDCPA, you can sue them in state or federal court within one year of the violation. Many consumer protection attorneys take these cases on contingency because the FDCPA provides for fee-shifting. Document every interaction - keep a log of calls, save all letters and voicemails, and record conversations if your state allows it.</p>
+<div class="content-section"><h2>Your Right to Opt Out</h2>
+<p>You can opt out of any electronic communication channel at any time. If you tell a collector to stop texting, they must stop texting. If you tell them to stop emailing, they must stop emailing. You can force all communication into writing (postal mail) by opting out of calls, texts, and emails.</p><p>Sending a comprehensive <a href="https://ceaseanddesistdebt.com">cease and desist letter</a> that covers all channels is the most effective way to stop unwanted electronic contact.</p>
 </div>
 <div class="faq-section"><h2>Frequently Asked Questions</h2>
-<div class="faq-item"><h3>What is the FDCPA?</h3><p>The Fair Debt Collection Practices Act - a federal law that restricts how third-party debt collectors can treat consumers. It prohibits harassment, misrepresentation, and unfair practices.</p></div>
-<div class="faq-item"><h3>Can I tell a collector to stop calling?</h3><p>Yes. Send a written cease and desist letter. After receiving it, the collector can only contact you to confirm they will stop or to notify you of legal action.</p></div>
-<div class="faq-item"><h3>What damages can I recover for FDCPA violations?</h3><p>Up to $1,000 in statutory damages per lawsuit, plus actual damages (emotional distress, lost wages) and attorney fees.</p></div>
-<div class="faq-item"><h3>Does the FDCPA apply to original creditors?</h3><p>No. The FDCPA applies to third-party debt collectors and debt buyers. Original creditors collecting their own debts are generally not covered, though state laws may provide similar protections.</p></div>
+<div class="faq-item"><h3>Can debt collectors text me?</h3><p>Yes, under the 2021 Regulation F rules, but they must include opt-out instructions in every text and cannot reveal debt details visible on a lock screen.</p></div>
+<div class="faq-item"><h3>Can I opt out of texts but still get calls?</h3><p>Yes. You can opt out of individual communication channels. Opting out of texts does not affect the collector ability to call or send mail.</p></div>
+<div class="faq-item"><h3>Can collectors contact me on social media?</h3><p>Under Regulation F, collectors can send private messages on social media, but cannot post publicly about your debt. They must identify themselves as debt collectors and include opt-out instructions.</p></div>
+<div class="faq-item"><h3>What if a collector keeps texting after I opt out?</h3><p>This is a violation of Regulation F and the FDCPA. Document the continued texts (screenshots with timestamps) and file complaints with the CFPB and your state attorney general.</p></div>
 </div>
 <div class="cta-box"><p>Check your bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility with our free screening tool.</p><a href="https://1328f.com?utm_source=howtostopdebtcollectors.org&utm_medium=referral&utm_campaign=btn-network" class="btn">Free Discharge Screener</a></div>
 <div class="about-data"><strong>About This Data:</strong> Content based on federal bankruptcy law (Title 11, U.S. Code) and consumer protection statutes. Educational content, not legal advice.</div>
@@ -140,12 +119,12 @@
 <!-- BTN:FOOTER:START -->
 <footer class="network-footer" role="contentinfo">
   <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
-<p><strong>Part of the Open Bankruptcy Project</strong></p><div class="links">
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p><div class="links">
     <a href="https://1328f.com?utm_source=howtostopdebtcollectors.org&utm_medium=referral&utm_campaign=btn-network">Discharge Screener</a>
-    <a href="https://debtvalidationletter.org?utm_source=howtostopdebtcollectors.org&utm_medium=referral&utm_campaign=btn-network">Debt Validation Letter</a>
     <a href="https://ceaseanddesistdebt.com?utm_source=howtostopdebtcollectors.org&utm_medium=referral&utm_campaign=btn-network">Cease &amp; Desist</a>
     <a href="https://openbankruptcyproject.org?utm_source=howtostopdebtcollectors.org&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a>
-</div><p class="disclaimer">Free bankruptcy education. Not legal advice. A project of the <a href="https://openbankruptcyproject.org?utm_source=howtostopdebtcollectors.org&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a>, a 501(c)(3) public charity (EIN 41-5159631).</p></footer>
+    <a href="https://debtvalidationletter.org?utm_source=howtostopdebtcollectors.org&utm_medium=referral&utm_campaign=btn-network">Validation Letter</a>
+</div><p class="disclaimer">Free bankruptcy education. Not legal advice. A project of the <a href="https://openbankruptcyproject.org?utm_source=howtostopdebtcollectors.org&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a>, a 501(c)(3) nonprofit.</p></footer>
 <!-- BTN:FOOTER:END -->
 <script src="/btn-engage.js" defer></script><script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body></html>
